@@ -1,0 +1,86 @@
+body
+{
+	
+	color: white;
+	background-color: black;
+	font-size:25px;
+	top:30px;
+	left:60px;
+	font-family:"comic-sans","helvetica";
+
+
+}
+
+#header
+{
+	
+	text-align:center;
+	position:fixed;
+	top:0%;
+	left:0%;
+/*	margin-top: -20px;
+	margin-left: -100px;*/
+	font-size:25px;
+}
+
+#footer
+{
+	position:fixed;
+	top: 95%;
+width:100%;	
+	text-align:center;
+	font-size:13px;
+	background-color: #212121;
+
+}
+
+#register_form
+{
+	
+	
+	text-align:center;
+	position:relative;
+	top:27%;
+	left:40%;
+	font-size:23px;
+
+}
+
+#menu
+{
+	position:absolute;
+	top:40%;
+	font-size:23px;
+	width:30%;
+	background-color: #212121;
+}
+#sidebar
+{
+	position:absolute;
+	top:40%;
+	left:70%;
+	width:30%;
+	font-size:23px;
+	background-color: #212121;
+}
+
+#rest
+{
+	position:fixed;
+	top:40%;
+	left:40%;
+}
+
+#insertform
+{
+	position:fixed;
+	top:20%;
+	left:20%;
+}
+
+#deleteform
+{
+	position:fixed;
+	top:20%;
+	right:0%;
+}
